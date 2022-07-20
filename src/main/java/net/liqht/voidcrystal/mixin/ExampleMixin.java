@@ -1,6 +1,6 @@
-package net.liqht.void_crystal.mixin;
+package net.liqht.voidcrystal.mixin;
 
-import net.liqht.void_crystal.Main;
+import net.liqht.voidcrystal.Main;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

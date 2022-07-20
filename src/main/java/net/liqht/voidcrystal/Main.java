@@ -1,6 +1,8 @@
-package net.liqht.void_crystal;
+package net.liqht.voidcrystal;
 
 import net.fabricmc.api.ModInitializer;
+import net.liqht.voidcrystal.block.ModBlocks;
+import net.liqht.voidcrystal.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -10,5 +12,7 @@ public class Main implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

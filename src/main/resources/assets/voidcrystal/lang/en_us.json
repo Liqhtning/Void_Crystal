@@ -1,0 +1,9 @@
+{
+  "item.voidcrystal.void_pearl": "Void Pearl",
+
+  "block.voidcrystal.voidcrystalblock": "Void Crystal",
+  "block.voidcrystal.voidcrystalentryblock": "Void Crystal Entry",
+  "block.voidcrystal.voidcrystalexitblock": "Void Crystal Exit",
+
+  "itemGroup.voidcrystal.void_items": "Void Items"
+}

@@ -1,4 +1,4 @@
-package net.liqht.void_crystal;
+package net.liqht.voidcrystal;
 
 import net.fabricmc.api.ClientModInitializer;
 

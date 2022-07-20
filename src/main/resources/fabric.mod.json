@@ -19,10 +19,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.liqht.void_crystal.Main"
+      "net.liqht.voidcrystal.Main"
     ],
     "client": [
-      "net.liqht.void_crystal.MainClient"
+      "net.liqht.voidcrystal.MainClient"
     ]
   },
   "mixins": [
